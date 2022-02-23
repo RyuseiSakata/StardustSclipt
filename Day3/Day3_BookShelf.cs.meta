@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: f880319df7a614757afa7075849dbb41
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - button: {instanceID: 0}
+  - plPos: {instanceID: 0}
+  - imagemade1: {fileID: 21300000, guid: c392af1a17dfc9a4ea1353d0c427b8eb, type: 3}
+  - imagemade2: {instanceID: 0}
+  - myPhoto: {instanceID: 0}
+  - messageScript: {instanceID: 0}
+  - itemData: {fileID: 11400000, guid: 6c3c5c7671b465849a5d7ba9c1857255, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
